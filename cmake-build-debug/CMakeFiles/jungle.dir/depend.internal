@@ -12,9 +12,18 @@ CMakeFiles/jungle.dir/Jungle.cpp.o
  /home/athfemoiur/CLionProjects/Jungle/Animal.h
  /home/athfemoiur/CLionProjects/Jungle/Jungle.cpp
  /home/athfemoiur/CLionProjects/Jungle/Jungle.h
+CMakeFiles/jungle.dir/Pet.cpp.o
+ /home/athfemoiur/CLionProjects/Jungle/Animal.h
+ /home/athfemoiur/CLionProjects/Jungle/Pet.cpp
+ /home/athfemoiur/CLionProjects/Jungle/Pet.h
 CMakeFiles/jungle.dir/WildAnimal.cpp.o
  /home/athfemoiur/CLionProjects/Jungle/Animal.h
  /home/athfemoiur/CLionProjects/Jungle/WildAnimal.cpp
  /home/athfemoiur/CLionProjects/Jungle/WildAnimal.h
 CMakeFiles/jungle.dir/main.cpp.o
+ /home/athfemoiur/CLionProjects/Jungle/Animal.h
+ /home/athfemoiur/CLionProjects/Jungle/DomesticAnimal.h
+ /home/athfemoiur/CLionProjects/Jungle/Jungle.h
+ /home/athfemoiur/CLionProjects/Jungle/Pet.h
+ /home/athfemoiur/CLionProjects/Jungle/WildAnimal.h
  /home/athfemoiur/CLionProjects/Jungle/main.cpp

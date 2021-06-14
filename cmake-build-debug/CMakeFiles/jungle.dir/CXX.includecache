@@ -6,41 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/athfemoiur/CLionProjects/Jungle/Animal.cpp
-iostream
--
-cmath
--
-Animal.h
 /home/athfemoiur/CLionProjects/Jungle/Animal.h
-
-/home/athfemoiur/CLionProjects/Jungle/Animal.h
-
-/home/athfemoiur/CLionProjects/Jungle/DomesticAnimal.cpp
-iostream
--
-DomesticAnimal.h
-/home/athfemoiur/CLionProjects/Jungle/DomesticAnimal.h
 
 /home/athfemoiur/CLionProjects/Jungle/DomesticAnimal.h
 Animal.h
 /home/athfemoiur/CLionProjects/Jungle/Animal.h
 
-/home/athfemoiur/CLionProjects/Jungle/Jungle.cpp
-iostream
--
-Jungle.h
-/home/athfemoiur/CLionProjects/Jungle/Jungle.h
-
 /home/athfemoiur/CLionProjects/Jungle/Jungle.h
 Animal.h
 /home/athfemoiur/CLionProjects/Jungle/Animal.h
 
-/home/athfemoiur/CLionProjects/Jungle/WildAnimal.cpp
+/home/athfemoiur/CLionProjects/Jungle/Pet.cpp
+Pet.h
+/home/athfemoiur/CLionProjects/Jungle/Pet.h
 iostream
--
-WildAnimal.h
-/home/athfemoiur/CLionProjects/Jungle/WildAnimal.h
+/home/athfemoiur/CLionProjects/Jungle/iostream
+
+/home/athfemoiur/CLionProjects/Jungle/Pet.h
+Animal.h
+/home/athfemoiur/CLionProjects/Jungle/Animal.h
 
 /home/athfemoiur/CLionProjects/Jungle/WildAnimal.h
 Animal.h
@@ -49,4 +33,12 @@ Animal.h
 /home/athfemoiur/CLionProjects/Jungle/main.cpp
 iostream
 -
+Jungle.h
+/home/athfemoiur/CLionProjects/Jungle/Jungle.h
+WildAnimal.h
+/home/athfemoiur/CLionProjects/Jungle/WildAnimal.h
+DomesticAnimal.h
+/home/athfemoiur/CLionProjects/Jungle/DomesticAnimal.h
+Pet.h
+/home/athfemoiur/CLionProjects/Jungle/Pet.h
 
